@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derwin P.</h1>
+<h1 align="center">Hi 👋, I'm Hunter P.</h1>
 <h3 align="center">Some loser who likes to code</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/f5/d2/7b/f5d27b3788e4e20852a6b321a1837ade.gif">
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **programming in general**
 
-- 📫 How to reach me **@jellikitz on Discord**
+- 📫 How to reach me **@littlelordfent on Discord**
 
 - ⚡ Fun fact **I assassinated Archduke Franz Ferdinand**
 
